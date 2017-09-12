@@ -1,0 +1,7 @@
+#Wed Jan 04 01:04:32 GMT 2017
+base.0=/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b35d38dba165d08bb5c52eb67d42b4d44c23e3b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bbecaf8f31066a5d2028d63355607fc567c50e26/classes.dex
+base.1=/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bbecaf8f31066a5d2028d63355607fc567c50e26
+file.0=/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b35d38dba165d08bb5c52eb67d42b4d44c23e3b1/classes.dex

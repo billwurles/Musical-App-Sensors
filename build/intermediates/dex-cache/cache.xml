@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5913f202499862b76da026324786982b3a82c401/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_c0907be35732b39f00f73fbff24a8ec95de40643/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44534e93e922280f3976c104b916aa037261a93c">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b35d38dba165d08bb5c52eb67d42b4d44c23e3b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c8de125618914ded96adb8bb94ee6c72e9e9cb83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_de2db5ca88141be15d91457e5a060a6d36d14f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_417602de2dd5a64ee41ce69cca5b1b3374138244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_52d3439ba008230273351a076e1e141db31a6e1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1baf98331f0eae5d13f2e35807dd7362d6c5098d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_982bc717240b251235234c9c3db699b40fc09aaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d3d5eb55c7da65b0e681995a4603184c06f520c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_1445c29a63382fa84fe37db3b1ef778c78d05706/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_f526ad8b6eb5a34eda970b652e99f64bb4cba853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d63f92318a0090bdfb0fce4266e98863521dc8d8">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bbecaf8f31066a5d2028d63355607fc567c50e26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_c0b98e7a7b9dc0965d865f5abfa3997fc4a76042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_fc5a1787c27e77382395d7a5f1c5514cc18d8b65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_a2c95fcd5037b5625ce93eecb10889f8d53f6f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/MusicalSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_ac873f3803433cc1980a445317449c923d9344ed/classes.dex" />
+    </item>
+
+</items>
